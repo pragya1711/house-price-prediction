@@ -1,0 +1,649 @@
+city,location,area_sqft,bedrooms,furnishing,age_years,price_per_sqft,price_in_lakhs
+Mumbai,Bandra West,800,1,Unfurnished,2,47267.82,378.14
+Mumbai,Bandra West,800,1,Unfurnished,9,44904.43,359.24
+Mumbai,Bandra West,800,1,Unfurnished,15,42541.04,340.33
+Mumbai,Bandra West,800,1,Semi-Furnished,2,49631.21,397.05
+Mumbai,Bandra West,800,1,Semi-Furnished,9,47149.65,377.2
+Mumbai,Bandra West,800,1,Semi-Furnished,15,44668.09,357.34
+Mumbai,Bandra West,800,1,Furnished,2,51994.6,415.96
+Mumbai,Bandra West,800,1,Furnished,9,49394.87,395.16
+Mumbai,Bandra West,800,1,Furnished,15,46795.14,374.36
+Mumbai,Bandra West,800,2,Unfurnished,2,49900,399.20 
+Mumbai,Bandra West,800,2,Unfurnished,9,44023.95,352.19
+Mumbai,Bandra West,800,2,Unfurnished,15,41706.9,333.66
+Mumbai,Bandra West,800,2,Semi-Furnished,2,51000,408.00 
+Mumbai,Bandra West,800,2,Semi-Furnished,9,48800,390.04
+Mumbai,Bandra West,800,2,Semi-Furnished,15,46900.56,375.20 
+Mumbai,Bandra West,800,2,Furnished,2,52104,416.83
+Mumbai,Bandra West,800,2,Furnished,9,48426.35,387.41
+Mumbai,Bandra West,800,2,Furnished,15,45877.59,367.02
+Mumbai,Bandra West,800,3,Unfurnished,2,50950.18,407.60 
+Mumbai,Bandra West,800,3,Unfurnished,9,45680.31,365.44
+Mumbai,Bandra West,800,3,Unfurnished,15,40872.76,326.98
+Mumbai,Bandra West,800,3,Semi-Furnished,2,51970,415.76
+Mumbai,Bandra West,800,3,Semi-Furnished,9,46780,374.24
+Mumbai,Bandra West,800,3,Semi-Furnished,15,42916.4,343.33
+Mumbai,Bandra West,800,3,Furnished,2,52860,422.88
+Mumbai,Bandra West,800,3,Furnished,9,48900,391.20 
+Mumbai,Bandra West,800,3,Furnished,15,44960.04,359.68
+Mumbai,Bandra West,1200,1,Unfurnished,2,47267.82,567.21
+Mumbai,Bandra West,1200,1,Unfurnished,9,44904.43,538.85
+Mumbai,Bandra West,1200,1,Unfurnished,15,42541.04,510.49
+Mumbai,Bandra West,1200,1,Semi-Furnished,2,49631.21,595.57
+Mumbai,Bandra West,1200,1,Semi-Furnished,9,47149.65,565.8
+Mumbai,Bandra West,1200,1,Semi-Furnished,15,44668.09,536.02
+Mumbai,Bandra West,1200,1,Furnished,2,51994.6,593.94
+Mumbai,Bandra West,1200,1,Furnished,9,49394.87,572.74
+Mumbai,Bandra West,1200,1,Furnished,15,46795.14,561.54
+Mumbai,Bandra West,1200,2,Unfurnished,2,48765,585.18
+Mumbai,Bandra West,1200,2,Unfurnished,9,45765.95,549.08
+Mumbai,Bandra West,1200,2,Unfurnished,15,43100.9,517.21
+Mumbai,Bandra West,1200,2,Semi-Furnished,2,48658.05,592.80 
+Mumbai,Bandra West,1200,2,Semi-Furnished,9,46225.15,554.7
+Mumbai,Bandra West,1200,2,Semi-Furnished,15,43792.25,525.51
+Mumbai,Bandra West,1200,2,Furnished,2,50975.1,600.21
+Mumbai,Bandra West,1200,2,Furnished,9,48426.35,581.12
+Mumbai,Bandra West,1200,2,Furnished,15,45877.59,550.53
+Mumbai,Bandra West,1200,3,Unfurnished,2,45414.18,599.97
+Mumbai,Bandra West,1200,3,Unfurnished,9,43143.47,557.72
+Mumbai,Bandra West,1200,3,Unfurnished,15,40872.76,512.47
+Mumbai,Bandra West,1200,3,Semi-Furnished,2,47684.89,605.86
+Mumbai,Bandra West,1200,3,Semi-Furnished,9,45300.64,573.61
+Mumbai,Bandra West,1200,3,Semi-Furnished,15,42916.4,546.54
+Mumbai,Bandra West,1200,3,Furnished,2,49955.6,617.47
+Mumbai,Bandra West,1200,3,Furnished,9,47457.82,575.49
+Mumbai,Bandra West,1200,3,Furnished,15,44960.04,539.52
+Mumbai,Bandra West,1600,1,Unfurnished,2,47267.82,756.29
+Mumbai,Bandra West,1600,1,Unfurnished,9,44904.43,718.47
+Mumbai,Bandra West,1600,1,Unfurnished,15,42541.04,680.66
+Mumbai,Bandra West,1600,1,Semi-Furnished,2,49631.21,764.1
+Mumbai,Bandra West,1600,1,Semi-Furnished,9,47149.65,734.39
+Mumbai,Bandra West,1600,1,Semi-Furnished,15,44668.09,704.69
+Mumbai,Bandra West,1600,1,Furnished,2,51994.6,831.91
+Mumbai,Bandra West,1600,1,Furnished,9,49394.87,790.32
+Mumbai,Bandra West,1600,1,Furnished,15,46795.14,748.72
+Mumbai,Bandra West,1600,2,Unfurnished,2,46341,767.46
+Mumbai,Bandra West,1600,2,Unfurnished,9,44023.95,732.38
+Mumbai,Bandra West,1600,2,Unfurnished,15,41706.9,699.31
+Mumbai,Bandra West,1600,2,Semi-Furnished,2,48658.05,778.53
+Mumbai,Bandra West,1600,2,Semi-Furnished,9,46225.15,739.6
+Mumbai,Bandra West,1600,2,Semi-Furnished,15,43792.25,700.68
+Mumbai,Bandra West,1600,2,Furnished,2,50975.1,815.6
+Mumbai,Bandra West,1600,2,Furnished,9,48426.35,774.82
+Mumbai,Bandra West,1600,2,Furnished,15,45877.59,734.04
+Mumbai,Bandra West,1600,3,Unfurnished,2,45414.18,812.12
+Mumbai,Bandra West,1600,3,Unfurnished,9,43143.47,771.45
+Mumbai,Bandra West,1600,3,Unfurnished,15,40872.76,726.12
+Mumbai,Bandra West,1600,3,Semi-Furnished,2,47684.89,820.54
+Mumbai,Bandra West,1600,3,Semi-Furnished,9,45300.64,784.12
+Mumbai,Bandra West,1600,3,Semi-Furnished,15,42916.4,752.47
+Mumbai,Bandra West,1600,3,Furnished,2,49955.6,824.14
+Mumbai,Bandra West,1600,3,Furnished,9,47457.82,794.14
+Mumbai,Bandra West,1600,3,Furnished,15,44960.04,771.95
+Mumbai,Juhu,800,1,Unfurnished,2,51918,415.34
+Mumbai,Juhu,800,1,Unfurnished,9,49322.1,394.58
+Mumbai,Juhu,800,1,Unfurnished,15,46726.2,373.81
+Mumbai,Juhu,800,1,Semi-Furnished,2,54513.9,436.11
+Mumbai,Juhu,800,1,Semi-Furnished,9,51788.21,414.31
+Mumbai,Juhu,800,1,Semi-Furnished,15,49062.51,392.5
+Mumbai,Juhu,800,1,Furnished,2,57109.8,456.88
+Mumbai,Juhu,800,1,Furnished,9,54254.31,434.03
+Mumbai,Juhu,800,1,Furnished,15,51398.82,411.19
+Mumbai,Juhu,800,2,Unfurnished,2,50900,407.2
+Mumbai,Juhu,800,2,Unfurnished,9,48355,386.84
+Mumbai,Juhu,800,2,Unfurnished,15,45810,366.48
+Mumbai,Juhu,800,2,Semi-Furnished,2,53445,427.56
+Mumbai,Juhu,800,2,Semi-Furnished,9,50772.75,406.18
+Mumbai,Juhu,800,2,Semi-Furnished,15,48100.5,384.8
+Mumbai,Juhu,800,2,Furnished,2,55990,447.92
+Mumbai,Juhu,800,2,Furnished,9,53190.5,425.52
+Mumbai,Juhu,800,2,Furnished,15,50391,403.13
+Mumbai,Juhu,800,3,Unfurnished,2,49882,399.06
+Mumbai,Juhu,800,3,Unfurnished,9,47387.9,379.1
+Mumbai,Juhu,800,3,Unfurnished,15,44893.8,359.15
+Mumbai,Juhu,800,3,Semi-Furnished,2,52376.1,419.01
+Mumbai,Juhu,800,3,Semi-Furnished,9,49757.3,398.06
+Mumbai,Juhu,800,3,Semi-Furnished,15,47138.49,377.11
+Mumbai,Juhu,800,3,Furnished,2,54870.2,438.96
+Mumbai,Juhu,800,3,Furnished,9,52126.69,417.01
+Mumbai,Juhu,800,3,Furnished,15,49383.18,395.07
+Mumbai,Juhu,1200,1,Unfurnished,2,51918,623.02
+Mumbai,Juhu,1200,1,Unfurnished,9,49322.1,591.87
+Mumbai,Juhu,1200,1,Unfurnished,15,46726.2,560.71
+Mumbai,Juhu,1200,1,Semi-Furnished,2,54513.9,654.17
+Mumbai,Juhu,1200,1,Semi-Furnished,9,51788.21,621.46
+Mumbai,Juhu,1200,1,Semi-Furnished,15,49062.51,588.75
+Mumbai,Juhu,1200,1,Furnished,2,57109.8,685.32
+Mumbai,Juhu,1200,1,Furnished,9,54254.31,651.05
+Mumbai,Juhu,1200,1,Furnished,15,51398.82,616.79
+Mumbai,Juhu,1200,2,Unfurnished,2,50900,610.8
+Mumbai,Juhu,1200,2,Unfurnished,9,48355,580.26
+Mumbai,Juhu,1200,2,Unfurnished,15,45810,549.72
+Mumbai,Juhu,1200,2,Semi-Furnished,2,53445,641.34
+Mumbai,Juhu,1200,2,Semi-Furnished,9,50772.75,609.27
+Mumbai,Juhu,1200,2,Semi-Furnished,15,48100.5,577.21
+Mumbai,Juhu,1200,2,Furnished,2,55990,671.88
+Mumbai,Juhu,1200,2,Furnished,9,53190.5,638.29
+Mumbai,Juhu,1200,2,Furnished,15,50391,604.69
+Mumbai,Juhu,1200,3,Unfurnished,2,49882,598.58
+Mumbai,Juhu,1200,3,Unfurnished,9,47387.9,568.65
+Mumbai,Juhu,1200,3,Unfurnished,15,44893.8,538.73
+Mumbai,Juhu,1200,3,Semi-Furnished,2,52376.1,628.51
+Mumbai,Juhu,1200,3,Semi-Furnished,9,49757.3,597.09
+Mumbai,Juhu,1200,3,Semi-Furnished,15,47138.49,565.66
+Mumbai,Juhu,1200,3,Furnished,2,54870.2,658.44
+Mumbai,Juhu,1200,3,Furnished,9,52126.69,625.52
+Mumbai,Juhu,1200,3,Furnished,15,49383.18,592.6
+Mumbai,Juhu,1600,1,Unfurnished,2,51918,830.69
+Mumbai,Juhu,1600,1,Unfurnished,9,49322.1,789.15
+Mumbai,Juhu,1600,1,Unfurnished,15,46726.2,747.62
+Mumbai,Juhu,1600,1,Semi-Furnished,2,54513.9,872.22
+Mumbai,Juhu,1600,1,Semi-Furnished,9,51788.21,828.61
+Mumbai,Juhu,1600,1,Semi-Furnished,15,49062.51,785
+Mumbai,Juhu,1600,1,Furnished,2,57109.8,913.76
+Mumbai,Juhu,1600,1,Furnished,9,54254.31,868.07
+Mumbai,Juhu,1600,1,Furnished,15,51398.82,822.38
+Mumbai,Juhu,1600,2,Unfurnished,2,50900,814.4
+Mumbai,Juhu,1600,2,Unfurnished,9,48355,773.68
+Mumbai,Juhu,1600,2,Unfurnished,15,45810,732.96
+Mumbai,Juhu,1600,2,Semi-Furnished,2,53445,855.12
+Mumbai,Juhu,1600,2,Semi-Furnished,9,50772.75,812.36
+Mumbai,Juhu,1600,2,Semi-Furnished,15,48100.5,769.61
+Mumbai,Juhu,1600,2,Furnished,2,55990,895.84
+Mumbai,Juhu,1600,2,Furnished,9,53190.5,851.05
+Mumbai,Juhu,1600,2,Furnished,15,50391,806.26
+Mumbai,Juhu,1600,3,Unfurnished,2,49882,798.11
+Mumbai,Juhu,1600,3,Unfurnished,9,47387.9,758.21
+Mumbai,Juhu,1600,3,Unfurnished,15,44893.8,718.3
+Mumbai,Juhu,1600,3,Semi-Furnished,2,52376.1,838.02
+Mumbai,Juhu,1600,3,Semi-Furnished,9,49757.3,796.12
+Mumbai,Juhu,1600,3,Semi-Furnished,15,47138.49,754.22
+Mumbai,Juhu,1600,3,Furnished,2,54870.2,877.92
+Mumbai,Juhu,1600,3,Furnished,9,52126.69,834.03
+Mumbai,Juhu,1600,3,Furnished,15,49383.18,790.13
+Delhi,Greater Kailash,800,1,Unfurnished,2,31622.04,252.98
+Delhi,Greater Kailash,800,1,Unfurnished,9,30040.94,240.33
+Delhi,Greater Kailash,800,1,Unfurnished,15,28459.84,227.68
+Delhi,Greater Kailash,800,1,Semi-Furnished,2,33203.14,265.63
+Delhi,Greater Kailash,800,1,Semi-Furnished,9,31542.98,252.34
+Delhi,Greater Kailash,800,1,Semi-Furnished,15,29882.83,239.06
+Delhi,Greater Kailash,800,1,Furnished,2,34784.24,278.27
+Delhi,Greater Kailash,800,1,Furnished,9,33045.03,264.36
+Delhi,Greater Kailash,800,1,Furnished,15,31305.82,250.45
+Delhi,Greater Kailash,800,2,Unfurnished,2,31002,248.02
+Delhi,Greater Kailash,800,2,Unfurnished,9,29451.9,235.62
+Delhi,Greater Kailash,800,2,Unfurnished,15,27901.8,223.21
+Delhi,Greater Kailash,800,2,Semi-Furnished,2,32552.1,260.42
+Delhi,Greater Kailash,800,2,Semi-Furnished,9,30924.49,247.4
+Delhi,Greater Kailash,800,2,Semi-Furnished,15,29296.89,234.38
+Delhi,Greater Kailash,800,2,Furnished,2,34102.2,272.82
+Delhi,Greater Kailash,800,2,Furnished,9,32397.09,259.18
+Delhi,Greater Kailash,800,2,Furnished,15,30691.98,245.54
+Delhi,Greater Kailash,800,3,Unfurnished,2,30381.96,243.06
+Delhi,Greater Kailash,800,3,Unfurnished,9,28862.86,230.9
+Delhi,Greater Kailash,800,3,Unfurnished,15,27343.76,218.75
+Delhi,Greater Kailash,800,3,Semi-Furnished,2,31901.06,255.21
+Delhi,Greater Kailash,800,3,Semi-Furnished,9,30306.01,242.45
+Delhi,Greater Kailash,800,3,Semi-Furnished,15,28710.95,229.69
+Delhi,Greater Kailash,800,3,Furnished,2,33420.16,267.36
+Delhi,Greater Kailash,800,3,Furnished,9,31749.15,253.99
+Delhi,Greater Kailash,800,3,Furnished,15,30078.14,240.63
+Delhi,Greater Kailash,1200,1,Unfurnished,2,31622.04,379.46
+Delhi,Greater Kailash,1200,1,Unfurnished,9,30040.94,360.49
+Delhi,Greater Kailash,1200,1,Unfurnished,15,28459.84,341.52
+Delhi,Greater Kailash,1200,1,Semi-Furnished,2,33203.14,398.44
+Delhi,Greater Kailash,1200,1,Semi-Furnished,9,31542.98,378.52
+Delhi,Greater Kailash,1200,1,Semi-Furnished,15,29882.83,358.59
+Delhi,Greater Kailash,1200,1,Furnished,2,34784.24,417.41
+Delhi,Greater Kailash,1200,1,Furnished,9,33045.03,396.54
+Delhi,Greater Kailash,1200,1,Furnished,15,31305.82,375.67
+Delhi,Greater Kailash,1200,2,Unfurnished,2,31002,372.02
+Delhi,Greater Kailash,1200,2,Unfurnished,9,29451.9,353.42
+Delhi,Greater Kailash,1200,2,Unfurnished,15,27901.8,334.82
+Delhi,Greater Kailash,1200,2,Semi-Furnished,2,32552.1,390.63
+Delhi,Greater Kailash,1200,2,Semi-Furnished,9,30924.49,371.09
+Delhi,Greater Kailash,1200,2,Semi-Furnished,15,29296.89,351.56
+Delhi,Greater Kailash,1200,2,Furnished,2,34102.2,409.23
+Delhi,Greater Kailash,1200,2,Furnished,9,32397.09,388.77
+Delhi,Greater Kailash,1200,2,Furnished,15,30691.98,368.3
+Delhi,Greater Kailash,1200,3,Unfurnished,2,30381.96,364.58
+Delhi,Greater Kailash,1200,3,Unfurnished,9,28862.86,346.35
+Delhi,Greater Kailash,1200,3,Unfurnished,15,27343.76,328.13
+Delhi,Greater Kailash,1200,3,Semi-Furnished,2,31901.06,382.81
+Delhi,Greater Kailash,1200,3,Semi-Furnished,9,30306.01,363.67
+Delhi,Greater Kailash,1200,3,Semi-Furnished,15,28710.95,344.53
+Delhi,Greater Kailash,1200,3,Furnished,2,33420.16,401.04
+Delhi,Greater Kailash,1200,3,Furnished,9,31749.15,380.99
+Delhi,Greater Kailash,1200,3,Furnished,15,30078.14,360.94
+Delhi,Greater Kailash,1600,1,Unfurnished,2,31622.04,505.95
+Delhi,Greater Kailash,1600,1,Unfurnished,9,30040.94,480.66
+Delhi,Greater Kailash,1600,1,Unfurnished,15,28459.84,455.36
+Delhi,Greater Kailash,1600,1,Semi-Furnished,2,33203.14,531.25
+Delhi,Greater Kailash,1600,1,Semi-Furnished,9,31542.98,504.69
+Delhi,Greater Kailash,1600,1,Semi-Furnished,15,29882.83,478.13
+Delhi,Greater Kailash,1600,1,Furnished,2,34784.24,556.55
+Delhi,Greater Kailash,1600,1,Furnished,9,33045.03,528.72
+Delhi,Greater Kailash,1600,1,Furnished,15,31305.82,500.89
+Delhi,Greater Kailash,1600,2,Unfurnished,2,31002,496.03
+Delhi,Greater Kailash,1600,2,Unfurnished,9,29451.9,471.23
+Delhi,Greater Kailash,1600,2,Unfurnished,15,27901.8,446.43
+Delhi,Greater Kailash,1600,2,Semi-Furnished,2,32552.1,520.83
+Delhi,Greater Kailash,1600,2,Semi-Furnished,9,30924.49,494.79
+Delhi,Greater Kailash,1600,2,Semi-Furnished,15,29296.89,468.75
+Delhi,Greater Kailash,1600,2,Furnished,2,34102.2,545.64
+Delhi,Greater Kailash,1600,2,Furnished,9,32397.09,518.35
+Delhi,Greater Kailash,1600,2,Furnished,15,30691.98,491.07
+Delhi,Greater Kailash,1600,3,Unfurnished,2,30381.96,486.11
+Delhi,Greater Kailash,1600,3,Unfurnished,9,28862.86,461.81
+Delhi,Greater Kailash,1600,3,Unfurnished,15,27343.76,437.5
+Delhi,Greater Kailash,1600,3,Semi-Furnished,2,31901.06,510.42
+Delhi,Greater Kailash,1600,3,Semi-Furnished,9,30306.01,484.9
+Delhi,Greater Kailash,1600,3,Semi-Furnished,15,28710.95,459.38
+Delhi,Greater Kailash,1600,3,Furnished,2,33420.16,534.72
+Delhi,Greater Kailash,1600,3,Furnished,9,31749.15,507.99
+Delhi,Greater Kailash,1600,3,Furnished,15,30078.14,481.25
+Jaipur,Mansarovar,800,1,Unfurnished,2,6641.22,53.13
+Jaipur,Mansarovar,800,1,Unfurnished,9,6309.16,50.47
+Jaipur,Mansarovar,800,1,Unfurnished,15,5977.1,47.82
+Jaipur,Mansarovar,800,1,Semi-Furnished,2,6973.28,55.79
+Jaipur,Mansarovar,800,1,Semi-Furnished,9,6624.62,53
+Jaipur,Mansarovar,800,1,Semi-Furnished,15,6275.95,50.21
+Jaipur,Mansarovar,800,1,Furnished,2,7305.34,58.44
+Jaipur,Mansarovar,800,1,Furnished,9,6940.07,55.52
+Jaipur,Mansarovar,800,1,Furnished,15,6574.81,52.6
+Jaipur,Mansarovar,800,2,Unfurnished,2,6511,52.09
+Jaipur,Mansarovar,800,2,Unfurnished,9,6185.45,49.48
+Jaipur,Mansarovar,800,2,Unfurnished,15,5859.9,46.88
+Jaipur,Mansarovar,800,2,Semi-Furnished,2,6836.55,54.69
+Jaipur,Mansarovar,800,2,Semi-Furnished,9,6494.72,51.96
+Jaipur,Mansarovar,800,2,Semi-Furnished,15,6152.9,49.22
+Jaipur,Mansarovar,800,2,Furnished,2,7162.1,57.3
+Jaipur,Mansarovar,800,2,Furnished,9,6803.99,54.43
+Jaipur,Mansarovar,800,2,Furnished,15,6445.89,51.57
+Jaipur,Mansarovar,800,3,Unfurnished,2,6380.78,51.05
+Jaipur,Mansarovar,800,3,Unfurnished,9,6061.74,48.49
+Jaipur,Mansarovar,800,3,Unfurnished,15,5742.7,45.94
+Jaipur,Mansarovar,800,3,Semi-Furnished,2,6699.82,53.6
+Jaipur,Mansarovar,800,3,Semi-Furnished,9,6364.83,50.92
+Jaipur,Mansarovar,800,3,Semi-Furnished,15,6029.84,48.24
+Jaipur,Mansarovar,800,3,Furnished,2,7018.86,56.15
+Jaipur,Mansarovar,800,3,Furnished,9,6667.92,53.34
+Jaipur,Mansarovar,800,3,Furnished,15,6316.97,50.54
+Jaipur,Mansarovar,1200,1,Unfurnished,2,6641.22,79.69
+Jaipur,Mansarovar,1200,1,Unfurnished,9,6309.16,75.71
+Jaipur,Mansarovar,1200,1,Unfurnished,15,5977.1,71.73
+Jaipur,Mansarovar,1200,1,Semi-Furnished,2,6973.28,83.68
+Jaipur,Mansarovar,1200,1,Semi-Furnished,9,6624.62,79.5
+Jaipur,Mansarovar,1200,1,Semi-Furnished,15,6275.95,75.31
+Jaipur,Mansarovar,1200,1,Furnished,2,7305.34,87.66
+Jaipur,Mansarovar,1200,1,Furnished,9,6940.07,83.28
+Jaipur,Mansarovar,1200,1,Furnished,15,6574.81,78.9
+Jaipur,Mansarovar,1200,2,Unfurnished,2,6511,78.13
+Jaipur,Mansarovar,1200,2,Unfurnished,9,6185.45,74.23
+Jaipur,Mansarovar,1200,2,Unfurnished,15,5859.9,70.32
+Jaipur,Mansarovar,1200,2,Semi-Furnished,2,6836.55,82.04
+Jaipur,Mansarovar,1200,2,Semi-Furnished,9,6494.72,77.94
+Jaipur,Mansarovar,1200,2,Semi-Furnished,15,6152.9,73.83
+Jaipur,Mansarovar,1200,2,Furnished,2,7162.1,85.95
+Jaipur,Mansarovar,1200,2,Furnished,9,6803.99,81.65
+Jaipur,Mansarovar,1200,2,Furnished,15,6445.89,77.35
+Jaipur,Mansarovar,1200,3,Unfurnished,2,6380.78,76.57
+Jaipur,Mansarovar,1200,3,Unfurnished,9,6061.74,72.74
+Jaipur,Mansarovar,1200,3,Unfurnished,15,5742.7,68.91
+Jaipur,Mansarovar,1200,3,Semi-Furnished,2,6699.82,80.4
+Jaipur,Mansarovar,1200,3,Semi-Furnished,9,6364.83,76.38
+Jaipur,Mansarovar,1200,3,Semi-Furnished,15,6029.84,72.36
+Jaipur,Mansarovar,1200,3,Furnished,2,7018.86,84.23
+Jaipur,Mansarovar,1200,3,Furnished,9,6667.92,80.01
+Jaipur,Mansarovar,1200,3,Furnished,15,6316.97,75.8
+Jaipur,Mansarovar,1600,1,Unfurnished,2,6641.22,106.26
+Jaipur,Mansarovar,1600,1,Unfurnished,9,6309.16,100.95
+Jaipur,Mansarovar,1600,1,Unfurnished,15,5977.1,95.63
+Jaipur,Mansarovar,1600,1,Semi-Furnished,2,6973.28,111.57
+Jaipur,Mansarovar,1600,1,Semi-Furnished,9,6624.62,105.99
+Jaipur,Mansarovar,1600,1,Semi-Furnished,15,6275.95,100.42
+Jaipur,Mansarovar,1600,1,Furnished,2,7305.34,116.89
+Jaipur,Mansarovar,1600,1,Furnished,9,6940.07,111.04
+Jaipur,Mansarovar,1600,1,Furnished,15,6574.81,105.2
+Jaipur,Mansarovar,1600,2,Unfurnished,2,6511,104.18
+Jaipur,Mansarovar,1600,2,Unfurnished,9,6185.45,98.97
+Jaipur,Mansarovar,1600,2,Unfurnished,15,5859.9,93.76
+Jaipur,Mansarovar,1600,2,Semi-Furnished,2,6836.55,109.38
+Jaipur,Mansarovar,1600,2,Semi-Furnished,9,6494.72,103.92
+Jaipur,Mansarovar,1600,2,Semi-Furnished,15,6152.9,98.45
+Jaipur,Mansarovar,1600,2,Furnished,2,7162.1,114.59
+Jaipur,Mansarovar,1600,2,Furnished,9,6803.99,108.86
+Jaipur,Mansarovar,1600,2,Furnished,15,6445.89,103.13
+Jaipur,Mansarovar,1600,3,Unfurnished,2,6380.78,102.09
+Jaipur,Mansarovar,1600,3,Unfurnished,9,6061.74,96.99
+Jaipur,Mansarovar,1600,3,Unfurnished,15,5742.7,91.88
+Jaipur,Mansarovar,1600,3,Semi-Furnished,2,6699.82,107.2
+Jaipur,Mansarovar,1600,3,Semi-Furnished,9,6364.83,101.84
+Jaipur,Mansarovar,1600,3,Semi-Furnished,15,6029.84,96.48
+Jaipur,Mansarovar,1600,3,Furnished,2,7018.86,112.3
+Jaipur,Mansarovar,1600,3,Furnished,9,6667.92,106.69
+Jaipur,Mansarovar,1600,3,Furnished,15,6316.97,101.07
+Bangalore,Indiranagar,800,1,Unfurnished,2,19890,159.12
+Bangalore,Indiranagar,800,1,Unfurnished,9,18895.5,151.16
+Bangalore,Indiranagar,800,1,Unfurnished,15,17901,143.21
+Bangalore,Indiranagar,800,1,Semi-Furnished,2,20884.5,167.08
+Bangalore,Indiranagar,800,1,Semi-Furnished,9,19840.27,158.72
+Bangalore,Indiranagar,800,1,Semi-Furnished,15,18796.05,150.37
+Bangalore,Indiranagar,800,1,Furnished,2,21879,175.03
+Bangalore,Indiranagar,800,1,Furnished,9,20785.05,166.28
+Bangalore,Indiranagar,800,1,Furnished,15,19691.1,157.53
+Bangalore,Indiranagar,800,2,Unfurnished,2,19500,156
+Bangalore,Indiranagar,800,2,Unfurnished,9,18525,148.2
+Bangalore,Indiranagar,800,2,Unfurnished,15,17550,140.4
+Bangalore,Indiranagar,800,2,Semi-Furnished,2,20475,163.8
+Bangalore,Indiranagar,800,2,Semi-Furnished,9,19451.25,155.61
+Bangalore,Indiranagar,800,2,Semi-Furnished,15,18427.5,147.42
+Bangalore,Indiranagar,800,2,Furnished,2,21450,171.6
+Bangalore,Indiranagar,800,2,Furnished,9,20377.5,163.02
+Bangalore,Indiranagar,800,2,Furnished,15,19305,154.44
+Bangalore,Indiranagar,800,3,Unfurnished,2,19110,152.88
+Bangalore,Indiranagar,800,3,Unfurnished,9,18154.5,145.24
+Bangalore,Indiranagar,800,3,Unfurnished,15,17199,137.59
+Bangalore,Indiranagar,800,3,Semi-Furnished,2,20065.5,160.52
+Bangalore,Indiranagar,800,3,Semi-Furnished,9,19062.22,152.5
+Bangalore,Indiranagar,800,3,Semi-Furnished,15,18058.95,144.47
+Bangalore,Indiranagar,800,3,Furnished,2,21021,168.17
+Bangalore,Indiranagar,800,3,Furnished,9,19969.95,159.76
+Bangalore,Indiranagar,800,3,Furnished,15,18918.9,151.35
+Bangalore,Indiranagar,1200,1,Unfurnished,2,19890,238.68
+Bangalore,Indiranagar,1200,1,Unfurnished,9,18895.5,226.75
+Bangalore,Indiranagar,1200,1,Unfurnished,15,17901,214.81
+Bangalore,Indiranagar,1200,1,Semi-Furnished,2,20884.5,250.61
+Bangalore,Indiranagar,1200,1,Semi-Furnished,9,19840.27,238.08
+Bangalore,Indiranagar,1200,1,Semi-Furnished,15,18796.05,225.55
+Bangalore,Indiranagar,1200,1,Furnished,2,21879,262.55
+Bangalore,Indiranagar,1200,1,Furnished,9,20785.05,249.42
+Bangalore,Indiranagar,1200,1,Furnished,15,19691.1,236.29
+Bangalore,Indiranagar,1200,2,Unfurnished,2,19500,234
+Bangalore,Indiranagar,1200,2,Unfurnished,9,18525,222.3
+Bangalore,Indiranagar,1200,2,Unfurnished,15,17550,210.6
+Bangalore,Indiranagar,1200,2,Semi-Furnished,2,20475,245.7
+Bangalore,Indiranagar,1200,2,Semi-Furnished,9,19451.25,233.41
+Bangalore,Indiranagar,1200,2,Semi-Furnished,15,18427.5,221.13
+Bangalore,Indiranagar,1200,2,Furnished,2,21450,257.4
+Bangalore,Indiranagar,1200,2,Furnished,9,20377.5,244.53
+Bangalore,Indiranagar,1200,2,Furnished,15,19305,231.66
+Bangalore,Indiranagar,1200,3,Unfurnished,2,19110,229.32
+Bangalore,Indiranagar,1200,3,Unfurnished,9,18154.5,217.85
+Bangalore,Indiranagar,1200,3,Unfurnished,15,17199,206.39
+Bangalore,Indiranagar,1200,3,Semi-Furnished,2,20065.5,240.79
+Bangalore,Indiranagar,1200,3,Semi-Furnished,9,19062.22,228.75
+Bangalore,Indiranagar,1200,3,Semi-Furnished,15,18058.95,216.71
+Bangalore,Indiranagar,1200,3,Furnished,2,21021,252.25
+Bangalore,Indiranagar,1200,3,Furnished,9,19969.95,239.64
+Bangalore,Indiranagar,1200,3,Furnished,15,18918.9,227.03
+Bangalore,Indiranagar,1600,1,Unfurnished,2,19890,318.24
+Bangalore,Indiranagar,1600,1,Unfurnished,9,18895.5,302.33
+Bangalore,Indiranagar,1600,1,Unfurnished,15,17901,286.42
+Bangalore,Indiranagar,1600,1,Semi-Furnished,2,20884.5,334.15
+Bangalore,Indiranagar,1600,1,Semi-Furnished,9,19840.27,317.44
+Bangalore,Indiranagar,1600,1,Semi-Furnished,15,18796.05,300.74
+Bangalore,Indiranagar,1600,1,Furnished,2,21879,350.06
+Bangalore,Indiranagar,1600,1,Furnished,9,20785.05,332.56
+Bangalore,Indiranagar,1600,1,Furnished,15,19691.1,315.06
+Bangalore,Indiranagar,1600,2,Unfurnished,2,19500,312
+Bangalore,Indiranagar,1600,2,Unfurnished,9,18525,296.4
+Bangalore,Indiranagar,1600,2,Unfurnished,15,17550,280.8
+Bangalore,Indiranagar,1600,2,Semi-Furnished,2,20475,327.6
+Bangalore,Indiranagar,1600,2,Semi-Furnished,9,19451.25,311.22
+Bangalore,Indiranagar,1600,2,Semi-Furnished,15,18427.5,294.84
+Bangalore,Indiranagar,1600,2,Furnished,2,21450,343.2
+Bangalore,Indiranagar,1600,2,Furnished,9,20377.5,326.04
+Bangalore,Indiranagar,1600,2,Furnished,15,19305,308.88
+Bangalore,Indiranagar,1600,3,Unfurnished,2,19110,305.76
+Bangalore,Indiranagar,1600,3,Unfurnished,9,18154.5,290.47
+Bangalore,Indiranagar,1600,3,Unfurnished,15,17199,275.18
+Bangalore,Indiranagar,1600,3,Semi-Furnished,2,20065.5,321.05
+Bangalore,Indiranagar,1600,3,Semi-Furnished,9,19062.22,305
+Bangalore,Indiranagar,1600,3,Semi-Furnished,15,18058.95,288.94
+Bangalore,Indiranagar,1600,3,Furnished,2,21021,336.34
+Bangalore,Indiranagar,1600,3,Furnished,9,19969.95,319.52
+Bangalore,Indiranagar,1600,3,Furnished,15,18918.9,302.7
+Bangalore,Whitefield,800,1,Unfurnished,2,11220,89.76
+Bangalore,Whitefield,800,1,Unfurnished,9,10659,85.27
+Bangalore,Whitefield,800,1,Unfurnished,15,10098,80.78
+Bangalore,Whitefield,800,1,Semi-Furnished,2,11781,94.25
+Bangalore,Whitefield,800,1,Semi-Furnished,9,11191.95,89.54
+Bangalore,Whitefield,800,1,Semi-Furnished,15,10602.9,84.82
+Bangalore,Whitefield,800,1,Furnished,2,12342,98.74
+Bangalore,Whitefield,800,1,Furnished,9,11724.9,93.8
+Bangalore,Whitefield,800,1,Furnished,15,11107.8,88.86
+Bangalore,Whitefield,800,2,Unfurnished,2,11000,88
+Bangalore,Whitefield,800,2,Unfurnished,9,10450,83.6
+Bangalore,Whitefield,800,2,Unfurnished,15,9900,79.2
+Bangalore,Whitefield,800,2,Semi-Furnished,2,11550,92.4
+Bangalore,Whitefield,800,2,Semi-Furnished,9,10972.5,87.78
+Bangalore,Whitefield,800,2,Semi-Furnished,15,10395,83.16
+Bangalore,Whitefield,800,2,Furnished,2,12100,96.8
+Bangalore,Whitefield,800,2,Furnished,9,11495,91.96
+Bangalore,Whitefield,800,2,Furnished,15,10890,87.12
+Bangalore,Whitefield,800,3,Unfurnished,2,10780,86.24
+Bangalore,Whitefield,800,3,Unfurnished,9,10241,81.93
+Bangalore,Whitefield,800,3,Unfurnished,15,9702,77.62
+Bangalore,Whitefield,800,3,Semi-Furnished,2,11319,90.55
+Bangalore,Whitefield,800,3,Semi-Furnished,9,10753.05,86.02
+Bangalore,Whitefield,800,3,Semi-Furnished,15,10187.1,81.5
+Bangalore,Whitefield,800,3,Furnished,2,11858,94.86
+Bangalore,Whitefield,800,3,Furnished,9,11265.1,90.12
+Bangalore,Whitefield,800,3,Furnished,15,10672.2,85.38
+Bangalore,Whitefield,1200,1,Unfurnished,2,11220,134.64
+Bangalore,Whitefield,1200,1,Unfurnished,9,10659,127.91
+Bangalore,Whitefield,1200,1,Unfurnished,15,10098,121.18
+Bangalore,Whitefield,1200,1,Semi-Furnished,2,11781,141.37
+Bangalore,Whitefield,1200,1,Semi-Furnished,9,11191.95,134.3
+Bangalore,Whitefield,1200,1,Semi-Furnished,15,10602.9,127.23
+Bangalore,Whitefield,1200,1,Furnished,2,12342,148.1
+Bangalore,Whitefield,1200,1,Furnished,9,11724.9,140.7
+Bangalore,Whitefield,1200,1,Furnished,15,11107.8,133.29
+Bangalore,Whitefield,1200,2,Unfurnished,2,11000,132
+Bangalore,Whitefield,1200,2,Unfurnished,9,10450,125.4
+Bangalore,Whitefield,1200,2,Unfurnished,15,9900,118.8
+Bangalore,Whitefield,1200,2,Semi-Furnished,2,11550,138.6
+Bangalore,Whitefield,1200,2,Semi-Furnished,9,10972.5,131.67
+Bangalore,Whitefield,1200,2,Semi-Furnished,15,10395,124.74
+Bangalore,Whitefield,1200,2,Furnished,2,12100,145.2
+Bangalore,Whitefield,1200,2,Furnished,9,11495,137.94
+Bangalore,Whitefield,1200,2,Furnished,15,10890,130.68
+Bangalore,Whitefield,1200,3,Unfurnished,2,10780,129.36
+Bangalore,Whitefield,1200,3,Unfurnished,9,10241,122.89
+Bangalore,Whitefield,1200,3,Unfurnished,15,9702,116.42
+Bangalore,Whitefield,1200,3,Semi-Furnished,2,11319,135.83
+Bangalore,Whitefield,1200,3,Semi-Furnished,9,10753.05,129.04
+Bangalore,Whitefield,1200,3,Semi-Furnished,15,10187.1,122.25
+Bangalore,Whitefield,1200,3,Furnished,2,11858,142.3
+Bangalore,Whitefield,1200,3,Furnished,9,11265.1,135.18
+Bangalore,Whitefield,1200,3,Furnished,15,10672.2,128.07
+Bangalore,Whitefield,1600,1,Unfurnished,2,11220,179.52
+Bangalore,Whitefield,1600,1,Unfurnished,9,10659,170.54
+Bangalore,Whitefield,1600,1,Unfurnished,15,10098,161.57
+Bangalore,Whitefield,1600,1,Semi-Furnished,2,11781,188.5
+Bangalore,Whitefield,1600,1,Semi-Furnished,9,11191.95,179.07
+Bangalore,Whitefield,1600,1,Semi-Furnished,15,10602.9,169.65
+Bangalore,Whitefield,1600,1,Furnished,2,12342,197.47
+Bangalore,Whitefield,1600,1,Furnished,9,11724.9,187.6
+Bangalore,Whitefield,1600,1,Furnished,15,11107.8,177.72
+Bangalore,Whitefield,1600,2,Unfurnished,2,11000,176
+Bangalore,Whitefield,1600,2,Unfurnished,9,10450,167.2
+Bangalore,Whitefield,1600,2,Unfurnished,15,9900,158.4
+Bangalore,Whitefield,1600,2,Semi-Furnished,2,11550,184.8
+Bangalore,Whitefield,1600,2,Semi-Furnished,9,10972.5,175.56
+Bangalore,Whitefield,1600,2,Semi-Furnished,15,10395,166.32
+Bangalore,Whitefield,1600,2,Furnished,2,12100,193.6
+Bangalore,Whitefield,1600,2,Furnished,9,11495,183.92
+Bangalore,Whitefield,1600,2,Furnished,15,10890,174.24
+Bangalore,Whitefield,1600,3,Unfurnished,2,10780,172.48
+Bangalore,Whitefield,1600,3,Unfurnished,9,10241,163.86
+Bangalore,Whitefield,1600,3,Unfurnished,15,9702,155.23
+Bangalore,Whitefield,1600,3,Semi-Furnished,2,11319,181.1
+Bangalore,Whitefield,1600,3,Semi-Furnished,9,10753.05,172.05
+Bangalore,Whitefield,1600,3,Semi-Furnished,15,10187.1,162.99
+Bangalore,Whitefield,1600,3,Furnished,2,11858,189.73
+Bangalore,Whitefield,1600,3,Furnished,9,11265.1,180.24
+Bangalore,Whitefield,1600,3,Furnished,15,10672.2,170.76
+Delhi,Hauz Khas,800,1,Unfurnished,2,31622.04,252.98
+Delhi,Hauz Khas,800,1,Unfurnished,9,30040.94,240.33
+Delhi,Hauz Khas,800,1,Unfurnished,15,28459.84,227.68
+Delhi,Hauz Khas,800,1,Semi-Furnished,2,33203.14,265.63
+Delhi,Hauz Khas,800,1,Semi-Furnished,9,31542.98,252.34
+Delhi,Hauz Khas,800,1,Semi-Furnished,15,29882.83,239.06
+Delhi,Hauz Khas,800,1,Furnished,2,34784.24,278.27
+Delhi,Hauz Khas,800,1,Furnished,9,33045.03,264.36
+Delhi,Hauz Khas,800,1,Furnished,15,31305.82,250.45
+Delhi,Hauz Khas,800,2,Unfurnished,2,31002,248.02
+Delhi,Hauz Khas,800,2,Unfurnished,9,29451.9,235.62
+Delhi,Hauz Khas,800,2,Unfurnished,15,27901.8,223.21
+Delhi,Hauz Khas,800,2,Semi-Furnished,2,32552.1,260.42
+Delhi,Hauz Khas,800,2,Semi-Furnished,9,30924.49,247.4
+Delhi,Hauz Khas,800,2,Semi-Furnished,15,29296.89,234.38
+Delhi,Hauz Khas,800,2,Furnished,2,34102.2,272.82
+Delhi,Hauz Khas,800,2,Furnished,9,32397.09,259.18
+Delhi,Hauz Khas,800,2,Furnished,15,30691.98,245.54
+Delhi,Hauz Khas,800,3,Unfurnished,2,30381.96,243.06
+Delhi,Hauz Khas,800,3,Unfurnished,9,28862.86,230.9
+Delhi,Hauz Khas,800,3,Unfurnished,15,27343.76,218.75
+Delhi,Hauz Khas,800,3,Semi-Furnished,2,31901.06,255.21
+Delhi,Hauz Khas,800,3,Semi-Furnished,9,30306.01,242.45
+Delhi,Hauz Khas,800,3,Semi-Furnished,15,28710.95,229.69
+Delhi,Hauz Khas,800,3,Furnished,2,33420.16,267.36
+Delhi,Hauz Khas,800,3,Furnished,9,31749.15,253.99
+Delhi,Hauz Khas,800,3,Furnished,15,30078.14,240.63
+Delhi,Hauz Khas,1200,1,Unfurnished,2,31622.04,379.46
+Delhi,Hauz Khas,1200,1,Unfurnished,9,30040.94,360.49
+Delhi,Hauz Khas,1200,1,Unfurnished,15,28459.84,341.52
+Delhi,Hauz Khas,1200,1,Semi-Furnished,2,33203.14,398.44
+Delhi,Hauz Khas,1200,1,Semi-Furnished,9,31542.98,378.52
+Delhi,Hauz Khas,1200,1,Semi-Furnished,15,29882.83,358.59
+Delhi,Hauz Khas,1200,1,Furnished,2,34784.24,417.41
+Delhi,Hauz Khas,1200,1,Furnished,9,33045.03,396.54
+Delhi,Hauz Khas,1200,1,Furnished,15,31305.82,375.67
+Delhi,Hauz Khas,1200,2,Unfurnished,2,31002,372.02
+Delhi,Hauz Khas,1200,2,Unfurnished,9,29451.9,353.42
+Delhi,Hauz Khas,1200,2,Unfurnished,15,27901.8,334.82
+Delhi,Hauz Khas,1200,2,Semi-Furnished,2,32552.1,390.63
+Delhi,Hauz Khas,1200,2,Semi-Furnished,9,30924.49,371.09
+Delhi,Hauz Khas,1200,2,Semi-Furnished,15,29296.89,351.56
+Delhi,Hauz Khas,1200,2,Furnished,2,34102.2,409.23
+Delhi,Hauz Khas,1200,2,Furnished,9,32397.09,388.77
+Delhi,Hauz Khas,1200,2,Furnished,15,30691.98,368.3
+Delhi,Hauz Khas,1200,3,Unfurnished,2,30381.96,364.58
+Delhi,Hauz Khas,1200,3,Unfurnished,9,28862.86,346.35
+Delhi,Hauz Khas,1200,3,Unfurnished,15,27343.76,328.13
+Delhi,Hauz Khas,1200,3,Semi-Furnished,2,31901.06,382.81
+Delhi,Hauz Khas,1200,3,Semi-Furnished,9,30306.01,363.67
+Delhi,Hauz Khas,1200,3,Semi-Furnished,15,28710.95,344.53
+Delhi,Hauz Khas,1200,3,Furnished,2,33420.16,401.04
+Delhi,Hauz Khas,1200,3,Furnished,9,31749.15,380.99
+Delhi,Hauz Khas,1200,3,Furnished,15,30078.14,360.94
+Delhi,Hauz Khas,1600,1,Unfurnished,2,31622.04,505.95
+Delhi,Hauz Khas,1600,1,Unfurnished,9,30040.94,480.66
+Delhi,Hauz Khas,1600,1,Unfurnished,15,28459.84,455.36
+Delhi,Hauz Khas,1600,1,Semi-Furnished,2,33203.14,531.25
+Delhi,Hauz Khas,1600,1,Semi-Furnished,9,31542.98,504.69
+Delhi,Hauz Khas,1600,1,Semi-Furnished,15,29882.83,478.13
+Delhi,Hauz Khas,1600,1,Furnished,2,34784.24,556.55
+Delhi,Hauz Khas,1600,1,Furnished,9,33045.03,528.72
+Delhi,Hauz Khas,1600,1,Furnished,15,31305.82,500.89
+Delhi,Hauz Khas,1600,2,Unfurnished,2,31002,496.03
+Delhi,Hauz Khas,1600,2,Unfurnished,9,29451.9,471.23
+Delhi,Hauz Khas,1600,2,Unfurnished,15,27901.8,446.43
+Delhi,Hauz Khas,1600,2,Semi-Furnished,2,32552.1,520.83
+Delhi,Hauz Khas,1600,2,Semi-Furnished,9,30924.49,494.79
+Delhi,Hauz Khas,1600,2,Semi-Furnished,15,29296.89,468.75
+Delhi,Hauz Khas,1600,2,Furnished,2,34102.2,545.64
+Delhi,Hauz Khas,1600,2,Furnished,9,32397.09,518.35
+Delhi,Hauz Khas,1600,2,Furnished,15,30691.98,491.07
+Delhi,Hauz Khas,1600,3,Unfurnished,2,30381.96,486.11
+Delhi,Hauz Khas,1600,3,Unfurnished,9,28862.86,461.81
+Delhi,Hauz Khas,1600,3,Unfurnished,15,27343.76,437.5
+Delhi,Hauz Khas,1600,3,Semi-Furnished,2,31901.06,510.42
+Delhi,Hauz Khas,1600,3,Semi-Furnished,9,30306.01,484.9
+Delhi,Hauz Khas,1600,3,Semi-Furnished,15,28710.95,459.38
+Delhi,Hauz Khas,1600,3,Furnished,2,33420.16,534.72
+Delhi,Hauz Khas,1600,3,Furnished,9,31749.15,507.99
+Delhi,Hauz Khas,1600,3,Furnished,15,30078.14,481.25
+Jaipur,Vaishali Nagar,800,1,Unfurnished,2,6641.22,53.13
+Jaipur,Vaishali Nagar,800,1,Unfurnished,9,6309.16,50.47
+Jaipur,Vaishali Nagar,800,1,Unfurnished,15,5977.1,47.82
+Jaipur,Vaishali Nagar,800,1,Semi-Furnished,2,6973.28,55.79
+Jaipur,Vaishali Nagar,800,1,Semi-Furnished,9,6624.62,53
+Jaipur,Vaishali Nagar,800,1,Semi-Furnished,15,6275.95,50.21
+Jaipur,Vaishali Nagar,800,1,Furnished,2,7305.34,58.44
+Jaipur,Vaishali Nagar,800,1,Furnished,9,6940.07,55.52
+Jaipur,Vaishali Nagar,800,1,Furnished,15,6574.81,52.6
+Jaipur,Vaishali Nagar,800,2,Unfurnished,2,6511,52.09
+Jaipur,Vaishali Nagar,800,2,Unfurnished,9,6185.45,49.48
+Jaipur,Vaishali Nagar,800,2,Unfurnished,15,5859.9,46.88
+Jaipur,Vaishali Nagar,800,2,Semi-Furnished,2,6836.55,54.69
+Jaipur,Vaishali Nagar,800,2,Semi-Furnished,9,6494.72,51.96
+Jaipur,Vaishali Nagar,800,2,Semi-Furnished,15,6152.9,49.22
+Jaipur,Vaishali Nagar,800,2,Furnished,2,7162.1,57.3
+Jaipur,Vaishali Nagar,800,2,Furnished,9,6803.99,54.43
+Jaipur,Vaishali Nagar,800,2,Furnished,15,6445.89,51.57
+Jaipur,Vaishali Nagar,800,3,Unfurnished,2,6380.78,51.05
+Jaipur,Vaishali Nagar,800,3,Unfurnished,9,6061.74,48.49
+Jaipur,Vaishali Nagar,800,3,Unfurnished,15,5742.7,45.94
+Jaipur,Vaishali Nagar,800,3,Semi-Furnished,2,6699.82,53.6
+Jaipur,Vaishali Nagar,800,3,Semi-Furnished,9,6364.83,50.92
+Jaipur,Vaishali Nagar,800,3,Semi-Furnished,15,6029.84,48.24
+Jaipur,Vaishali Nagar,800,3,Furnished,2,7018.86,56.15
+Jaipur,Vaishali Nagar,800,3,Furnished,9,6667.92,53.34
+Jaipur,Vaishali Nagar,800,3,Furnished,15,6316.97,50.54
+Jaipur,Vaishali Nagar,1200,1,Unfurnished,2,6641.22,79.69
+Jaipur,Vaishali Nagar,1200,1,Unfurnished,9,6309.16,75.71
+Jaipur,Vaishali Nagar,1200,1,Unfurnished,15,5977.1,71.73
+Jaipur,Vaishali Nagar,1200,1,Semi-Furnished,2,6973.28,83.68
+Jaipur,Vaishali Nagar,1200,1,Semi-Furnished,9,6624.62,79.5
+Jaipur,Vaishali Nagar,1200,1,Semi-Furnished,15,6275.95,75.31
+Jaipur,Vaishali Nagar,1200,1,Furnished,2,7305.34,87.66
+Jaipur,Vaishali Nagar,1200,1,Furnished,9,6940.07,83.28
+Jaipur,Vaishali Nagar,1200,1,Furnished,15,6574.81,78.9
+Jaipur,Vaishali Nagar,1200,2,Unfurnished,2,6511,78.13
+Jaipur,Vaishali Nagar,1200,2,Unfurnished,9,6185.45,74.23
+Jaipur,Vaishali Nagar,1200,2,Unfurnished,15,5859.9,70.32
+Jaipur,Vaishali Nagar,1200,2,Semi-Furnished,2,6836.55,82.04
+Jaipur,Vaishali Nagar,1200,2,Semi-Furnished,9,6494.72,77.94
+Jaipur,Vaishali Nagar,1200,2,Semi-Furnished,15,6152.9,73.83
+Jaipur,Vaishali Nagar,1200,2,Furnished,2,7162.1,85.95
+Jaipur,Vaishali Nagar,1200,2,Furnished,9,6803.99,81.65
+Jaipur,Vaishali Nagar,1200,2,Furnished,15,6445.89,77.35
+Jaipur,Vaishali Nagar,1200,3,Unfurnished,2,6380.78,76.57
+Jaipur,Vaishali Nagar,1200,3,Unfurnished,9,6061.74,72.74
+Jaipur,Vaishali Nagar,1200,3,Unfurnished,15,5742.7,68.91
+Jaipur,Vaishali Nagar,1200,3,Semi-Furnished,2,6699.82,80.4
+Jaipur,Vaishali Nagar,1200,3,Semi-Furnished,9,6364.83,76.38
+Jaipur,Vaishali Nagar,1200,3,Semi-Furnished,15,6029.84,72.36
+Jaipur,Vaishali Nagar,1200,3,Furnished,2,7018.86,84.23
+Jaipur,Vaishali Nagar,1200,3,Furnished,9,6667.92,80.01
+Jaipur,Vaishali Nagar,1200,3,Furnished,15,6316.97,75.8
+Jaipur,Vaishali Nagar,1600,1,Unfurnished,2,6641.22,106.26
+Jaipur,Vaishali Nagar,1600,1,Unfurnished,9,6309.16,100.95
+Jaipur,Vaishali Nagar,1600,1,Unfurnished,15,5977.1,95.63
+Jaipur,Vaishali Nagar,1600,1,Semi-Furnished,2,6973.28,111.57
+Jaipur,Vaishali Nagar,1600,1,Semi-Furnished,9,6624.62,105.99
+Jaipur,Vaishali Nagar,1600,1,Semi-Furnished,15,6275.95,100.42
+Jaipur,Vaishali Nagar,1600,1,Furnished,2,7305.34,116.89
+Jaipur,Vaishali Nagar,1600,1,Furnished,9,6940.07,111.04
+Jaipur,Vaishali Nagar,1600,1,Furnished,15,6574.81,105.2
+Jaipur,Vaishali Nagar,1600,2,Unfurnished,2,6511,104.18
+Jaipur,Vaishali Nagar,1600,2,Unfurnished,9,6185.45,98.97
+Jaipur,Vaishali Nagar,1600,2,Unfurnished,15,5859.9,93.76
+Jaipur,Vaishali Nagar,1600,2,Semi-Furnished,2,6836.55,109.38
+Jaipur,Vaishali Nagar,1600,2,Semi-Furnished,9,6494.72,103.92
+Jaipur,Vaishali Nagar,1600,2,Semi-Furnished,15,6152.9,98.45
+Jaipur,Vaishali Nagar,1600,2,Furnished,2,7162.1,114.59
+Jaipur,Vaishali Nagar,1600,2,Furnished,9,6803.99,108.86
+Jaipur,Vaishali Nagar,1600,2,Furnished,15,6445.89,103.13
+Jaipur,Vaishali Nagar,1600,3,Unfurnished,2,6380.78,102.09
+Jaipur,Vaishali Nagar,1600,3,Unfurnished,9,6061.74,96.99
+Jaipur,Vaishali Nagar,1600,3,Unfurnished,15,5742.7,91.88
+Jaipur,Vaishali Nagar,1600,3,Semi-Furnished,2,6699.82,107.2
+Jaipur,Vaishali Nagar,1600,3,Semi-Furnished,9,6364.83,101.84
+Jaipur,Vaishali Nagar,1600,3,Semi-Furnished,15,6029.84,96.48
+Jaipur,Vaishali Nagar,1600,3,Furnished,2,7018.86,112.3
+Jaipur,Vaishali Nagar,1600,3,Furnished,9,6667.92,106.69
+Jaipur,Vaishali Nagar,1600,3,Furnished,15,6316.97,101.07
